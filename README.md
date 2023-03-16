@@ -17,28 +17,23 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
 
-![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjiyeonLeeLuda%2FjiyeonLeeLuda&count_bg=%23FF5A1C&title_bg=%23BC32E5&icon=macys.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me
-안녕하세요! 동료와의 함께 성장하기를 추구하는 개발자 입니다.   
-지식을 적극적으로 공유하고, 어려운 문제를 함께 고민하며 풀어나가는 경험을 통해 Effective Communication Skill을 높이려고 노력합니다.    
-변경과 확장에 유연하게 대처 할 수 있도록 의존성을 잘 분리하기 위한 고민을 하고, 근거 있는 코드를 작성하려고 노력합니다.   
-나에게 편한 개발이 아닌 사용자에게 좋은 서비스 경험을 주기 위하여 고민합니다.   
-- 지식 : [영한님 책에서 볼 수 없는 JPA 내부 코드 살펴보기](https://dding9code.tistory.com/132)   
-- 경험 : [코딩테스트 공부를 막 준비, 시작하시는 분 들에게..](https://dding9code.tistory.com/130)    
+
 
 ### 💼 Experience
 
-- **Mcscience** [2019-01 - 2021-06]
-- **F-lab Mentee** [2022-05 - 2023-02]
+- *
+- *
 
 ### 🤝 Contact
 
-- 📧 **Email**: audrn6689@gmail.com
+- 📧 *
 
 
-### 📜 Blog: https://dding9code.tistory.com/
-### 📚 Team Project: [LiveCommerce Project](https://github.com/dding94/LiveCommerce)
+### 📜 Blog:
+### 📚 Team Project: 
 
 
 ### 🔨 Skills
