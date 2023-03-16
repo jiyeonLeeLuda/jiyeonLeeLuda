@@ -11,7 +11,7 @@ Hi there 👋
 <br>
 My goal is to be a great engineer and create new art with programming.
 <br>
-I also love to work hard and I love learning new skills. 😎
+ Also I love to work hard and learning new skills. 😎
 </p>
 <h4 align="center"> Hobbies: 📚 🎨 🎧 🚴‍♀️ <br> Languages: 🇰🇷 🇺🇸 </h4>
 &nbsp
