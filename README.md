@@ -48,8 +48,9 @@ I also love to work hard and I love learning new skills. 😎
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonLeeLuda&show_icons=true&theme=synthwave)
 
-</div>
-<br>
+  <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjiyeonLeeLuda%2FjiyeonLeeLuda&count_bg=%23FF5A1C&title_bg=%23BC32E5&icon=macys.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
