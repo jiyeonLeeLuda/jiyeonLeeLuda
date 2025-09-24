@@ -43,10 +43,11 @@ My goal is to be a great engineer and create new art with programming.
 &nbsp
 &nbsp
 <br>
+<!-- 
 <h1 align="center"> 🌟 Activities 🌟</h1>
 <div align="center">
   
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonLeeLuda&show_icons=true&theme=synthwave) -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonLeeLuda&show_icons=true&theme=synthwave) -->
 
   <br>
 
