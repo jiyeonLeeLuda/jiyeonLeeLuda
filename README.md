@@ -1,9 +1,18 @@
-### 안녕하세요, 이지연입니다 👋
+<div align="center">
 
-**Frontend Engineer · React/Next.js · 커머스**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff3f00,100:a82da8&height=300&section=header&text=Jiyeon%20Lee&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=70)
 
+</div>
+
+<h2 align="center">Frontend Engineer · React/Next.js · 커머스</h2>
+
+<p align="center">
 기술이 사람에게 유용함을 넘어 미소를 줄 수 있도록 노력합니다.
+<br>
 AI의 의견을 경청하며, 동시에 의심하는 게이트를 만들어 함께 일합니다.
+</p>
+
+<h4 align="center"> Hobbies: 📚 🎨 🎧 🚴‍♀️ <br> Languages: 🇰🇷 🇯🇵 🇺🇸 </h4>
 
 ---
 
@@ -33,10 +42,36 @@ AI가 코드를 쓰는 시대에 무엇을 만들지 판단하고, 만들어진 
 않습니다. 고유한 판을 하나씩 새겨 정확히 겹쳐 찍었을 때, 비로소 한 장의 그림이
 나타납니다. 제 경험들도 각자의 색을 잃지 않은 채 겹쳐져, 지금의 그림이 되어갑니다.
 
-#### Stack
+<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 
-`TypeScript` `React` `Next.js` `TanStack Query/Router` `Storybook` `MSW` `Vitest`
-`Python (AI pipeline)` `Claude Code`
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square"/>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</div>
+
+<br>
 
 #### Links
 
