@@ -76,6 +76,8 @@ AI가 코드를 쓰는 시대에 무엇을 만들지 판단하고, 만들어진 
 <h4>Databases &amp; Cloud</h4>
 
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Lambda%20·%20S3%20·%20CloudFront-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 </div>
