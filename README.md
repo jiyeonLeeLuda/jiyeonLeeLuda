@@ -12,8 +12,6 @@
 AI의 의견을 경청하며, 동시에 의심하는 게이트를 만들어 함께 일합니다.
 </p>
 
-<h4 align="center"> Hobbies: 📚 🎨 🎧 🚴‍♀️ <br> Languages: 🇰🇷 🇯🇵 🇺🇸 </h4>
-
 ---
 
 #### 지금 하는 일
@@ -64,7 +62,6 @@ AI가 코드를 쓰는 시대에 무엇을 만들지 판단하고, 만들어진 
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
