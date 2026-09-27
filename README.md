@@ -4,12 +4,12 @@
 
 </div>
 
-<h2 align="center">Frontend Engineer · React/Next.js · 커머스</h2>
+<h2 align="center">Fullstack Developer · React/Next.js · 커머스</h2>
 
 <p align="center">
 기술이 사람에게 유용함을 넘어 미소를 줄 수 있도록 노력합니다.
 <br>
-AI의 의견을 경청하며, 동시에 의심하는 게이트를 만들어 함께 일합니다.
+AI와 협업하며 안전 게이트를 만들어 함께 일합니다.
 </p>
 
 ---
